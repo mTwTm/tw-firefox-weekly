@@ -27,4 +27,6 @@
 # Daily log
 
 * Daily tasks - 1hr
-* Study Firefox lint error influences on builds - 7hrs
+* Study lint.xml behavior ( http://stackoverflow.com/questions/43994420/what-path-is-the-issue-ignore-path-element-in-lint-xml-relative-to/43995166#43995166 )- 6hrs
+* Meeting - 0.5hr
+* Lunch overtime - 0.5hr
