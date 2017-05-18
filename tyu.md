@@ -5,6 +5,8 @@
   * Max has advised to start with these problems.
   * Studied Support Library & GeckoMediaDrm implementation.
   * Trying to fix the WebAppActivity class.
+* [Bug 1365878](https://bugzil.la/1235670) - Change severity of NewApi lint checks from warning to error
+  * R?nalexander
   
 # TODO - this week
   
@@ -26,7 +28,8 @@
 
 # Daily log
 
+* Prepare for mozReview - 2hrs
+* Prepare for try permission - 1hr
 * Daily tasks - 1hr
-* 1235670 - 6.5hrs
-    * Issues related to style.xml
-* Triage & Meeting - 1hr
+* Fun with telemtry - 2hrs
+* 1365878 - 2hrs (Include rebase)
